@@ -21,7 +21,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="this is the title" />
+        tools:text="@string/titleAdd"
+        android:gravity="center"/>
 
     <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/tv_task_description"
@@ -34,7 +35,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_task_title"
-        tools:text="this is the description" />
+        tools:text="@string/newDescription" />
 
     <View
         android:id="@+id/separator"

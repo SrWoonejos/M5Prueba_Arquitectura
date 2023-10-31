@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t_tulo">Título</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="agregar">Agregar</string>
+    <string name="Title">this is the title</string>
+    <string name="newDescription">description</string>
+</resources>
